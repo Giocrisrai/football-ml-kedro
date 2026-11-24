@@ -2,7 +2,7 @@
 
 > **English summary.** Teaching project on a football dataset: exploratory analysis, classification and regression, unsupervised models and reproducible pipelines with Kedro, plus tests, Docker, CI and student guides following CRISP-DM. The rest of this document is in Spanish.
 
-[![CI](https://github.com/Giocrisrai/analisis_y_machine_learning_dataset_football/actions/workflows/ci.yml/badge.svg)](https://github.com/Giocrisrai/analisis_y_machine_learning_dataset_football/actions/workflows/ci.yml)
+[![CI](https://github.com/Giocrisrai/football-ml-kedro/actions/workflows/ci.yml/badge.svg)](https://github.com/Giocrisrai/football-ml-kedro/actions/workflows/ci.yml)
 
 [![Powered by Kedro](https://img.shields.io/badge/powered_by-kedro-ffc900?logo=kedro)](https://docs.kedro.org)
 
